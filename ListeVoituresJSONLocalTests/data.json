@@ -1,0 +1,286 @@
+{
+    "cars": [
+        {
+            "brandName": "Ferrari",
+            "imageName": "ferrari-logo",
+            "models": [
+                {
+                    "modelName": "488 Pista",
+                    "year": 2018,
+                    "engine": "V8",
+                    "power": 720,
+                    "maxSpeed": 340,
+                    "price": 291770
+                },
+                {
+                    "modelName": "LaFerrari",
+                    "year": 2013,
+                    "engine": "V12 Hybride",
+                    "power": 963,
+                    "maxSpeed": 372,
+                    "price": 1250000
+                }
+            ]
+        },
+        {
+            "brandName": "Lamborghini",
+            "imageName": "lamborghini-logo",
+            "models": [
+                {
+                    "modelName": "Aventador SVJ",
+                    "year": 2018,
+                    "engine": "V12",
+                    "power": 770,
+                    "maxSpeed": 350,
+                    "price": 350000
+                },
+                {
+                    "modelName": "Huracán Evo",
+                    "year": 2019,
+                    "engine": "V10",
+                    "power": 640,
+                    "maxSpeed": 325,
+                    "price": 220000
+                }
+            ]
+        },
+        {
+            "brandName": "Mercedes-Benz",
+            "imageName": "mercedes-logo",
+            "models": [
+                {
+                    "modelName": "AMG One",
+                    "year": 2020,
+                    "engine": "V6 Hybride F1",
+                    "power": 1000,
+                    "maxSpeed": 350,
+                    "price": 2750000
+                },
+                {
+                    "modelName": "AMG GT-R Black Series",
+                    "year": 2020,
+                    "engine": "V8",
+                    "power": 730,
+                    "maxSpeed": 325,
+                    "price": 359000
+                }
+            ]
+        },
+        {
+            "brandName": "McLaren",
+            "imageName": "mclaren-logo",
+            "models": [
+                {
+                    "modelName": "F1",
+                    "year": 1992,
+                    "engine": "V12",
+                    "power": 627,
+                    "maxSpeed": 391,
+                    "price": 1000000
+                },
+                {
+                    "modelName": "675LT",
+                    "year": 2016,
+                    "engine": "V8",
+                    "power": 675,
+                    "maxSpeed": 330,
+                    "price": 340175
+                },
+                {
+                    "modelName": "MP4-12C",
+                    "year": 2011,
+                    "engine": "V8",
+                    "power": 625,
+                    "maxSpeed": 330,
+                    "price": 200000
+                },
+                {
+                    "modelName": "P1",
+                    "year": 2013,
+                    "engine": "V8 Hybride",
+                    "power": 916,
+                    "maxSpeed": 350,
+                    "price": 1300000
+                },
+                {
+                    "modelName": "Senna",
+                    "year": 2018,
+                    "engine": "V8",
+                    "power": 800,
+                    "maxSpeed": 340,
+                    "price": 930000
+                },
+                {
+                    "modelName": "Speedtail",
+                    "year": 2020,
+                    "engine": "V8 Hybride",
+                    "power": 1070,
+                    "maxSpeed": 403,
+                    "price": 2400000
+                }
+            ]
+        },
+        {
+            "brandName": "Koenigsegg",
+            "imageName": "koenigsegg-logo",
+            "models": [
+                {
+                    "modelName": "CCX",
+                    "year": 2006,
+                    "engine": "V8",
+                    "power": 806,
+                    "maxSpeed": 396,
+                    "price": 650000
+                },
+                {
+                    "modelName": "Jesko",
+                    "year": 2019,
+                    "engine": "V8",
+                    "power": 1600,
+                    "maxSpeed": 500,
+                    "price": 3000000
+                }
+            ]
+        },
+        {
+            "brandName": "Bugatti",
+            "imageName": "bugatti-logo",
+            "models": [
+                {
+                    "modelName": "Veyron 16.4",
+                    "year": 2006,
+                    "engine": "W16",
+                    "power": 1001,
+                    "maxSpeed": 407,
+                    "price": 1700000
+                },
+                {
+                    "modelName": "Chiron",
+                    "year": 2017,
+                    "engine": "W16",
+                    "power": 1500,
+                    "maxSpeed": 420,
+                    "price": 2500000
+                },
+                {
+                    "modelName": "Divo",
+                    "year": 2018,
+                    "engine": "W16",
+                    "power": 1500,
+                    "maxSpeed": 380,
+                    "price": 5000000
+                },
+                {
+                    "modelName": "La Voiture Noire",
+                    "year": 2019,
+                    "engine": "W16",
+                    "power": 1500,
+                    "maxSpeed": 420,
+                    "price": 16000000
+                }
+            ]
+        },
+        {
+            "brandName": "Aston Martin",
+            "imageName": "astonmartin-logo",
+            "models": [
+                {
+                    "modelName": "DB11",
+                    "year": 2018,
+                    "engine": "V12",
+                    "power": 608,
+                    "maxSpeed": 322,
+                    "price": 210000
+                },
+                {
+                    "modelName": "One-77",
+                    "year": 2009,
+                    "engine": "V12",
+                    "power": 750,
+                    "maxSpeed": 354,
+                    "price": 1300000
+                }
+            ]
+        },
+        {
+            "brandName": "Porsche",
+            "imageName": "porsche-logo",
+            "models": [
+                {
+                    "modelName": "911 GT2 RS",
+                    "year": 2018,
+                    "engine": "F6",
+                    "power": 700,
+                    "maxSpeed": 340,
+                    "price": 405000
+                },
+                {
+                    "modelName": "918 Spyder",
+                    "year": 2013,
+                    "engine": "V8 Hybride",
+                    "power": 887,
+                    "maxSpeed": 345,
+                    "price": 778000
+                }
+            ]
+        },
+        {
+            "brandName": "Audi",
+            "imageName": "audi-logo",
+            "models": [
+                {
+                    "modelName": "R8 V10 Coupé Performance",
+                    "year": 2020,
+                    "engine": "V10",
+                    "power": 620,
+                    "maxSpeed": 331,
+                    "price": 210000
+                },
+                {
+                    "modelName": "RS6 Avant",
+                    "year": 2020,
+                    "engine": "V8",
+                    "power": 600,
+                    "maxSpeed": 305,
+                    "price": 140000
+                }
+            ]
+        },
+        {
+            "brandName": "BMW",
+            "imageName": "bmw-logo",
+            "models": [
+                {
+                    "modelName": "M8 Competition",
+                    "year": 2020,
+                    "engine": "V8",
+                    "power": 625,
+                    "maxSpeed": 305,
+                    "price": 172000
+                },
+                {
+                    "modelName": "M2 CS",
+                    "year": 2019,
+                    "engine": "i6",
+                    "power": 460,
+                    "maxSpeed": 280,
+                    "price": 100000
+                }
+            ]
+        },
+        {
+            "brandName": "Bentley",
+            "imageName": "bentley-logo",
+            "models": [
+                {
+                    "modelName": "Continental SuperSport",
+                    "year": 2017,
+                    "engine": "W12",
+                    "power": 710,
+                    "maxSpeed": 336,
+                    "price": 300000
+                }
+            ]
+        }
+    ]
+}
